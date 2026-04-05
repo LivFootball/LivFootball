@@ -1,7 +1,1 @@
-- Hi, I’m @LivFootball,
-- I’m interested in making practical bits of code to use all the time!
-- I like to make random mini-projects (i.e. fibonacci generator, number guessing game, etc.)
-- I also enjoy programming for my local HS robotics group.
-- I’m currently learning Python and C++ with more on the way.
-- Reach me at Capritchett316@gmail.com
-- Hit me with ideas for mini-projects, I especially like math problems and simple tidbits!
+
